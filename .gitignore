@@ -44,6 +44,7 @@ Thumbs.db
 # Project specific
 article.json
 *.log
+prompts/
 
 # Environment variables
 .env
